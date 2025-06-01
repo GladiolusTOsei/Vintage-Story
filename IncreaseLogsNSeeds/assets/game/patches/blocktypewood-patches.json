@@ -1,0 +1,69 @@
+[
+    {
+        "op": "replace",
+        "path": "/maxStackSize",
+        "value": 64,
+        "file": "blocktypes/wood/agedwallpaperplanks.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxStackSize",
+        "value": 16,
+        "file": "blocktypes/wood/bed.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxStackSize",
+        "value": 64,
+        "file": "blocktypes/wood/stackedbamboo.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxStackSize",
+        "value": 64,
+        "file": "blocktypes/wood/woodtyped/log.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxStackSize",
+        "value": 64,
+      "file": "blocktypes/wood/woodtyped/log-debarked.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxStackSize",
+        "value": 64,
+        "file": "blocktypes/wood/woodtyped/log-narrow.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxStackSize",
+        "value": 64,
+        "file": "blocktypes/wood/woodtyped/log-quad.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxStackSize",
+        "value": 64,
+        "file": "blocktypes/wood/woodtyped/log-quad-corner.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxStackSize",
+        "value": 64,
+        "file": "blocktypes/wood/woodtyped/log-section.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxStackSize",
+        "value": 64,
+        "file": "blocktypes/wood/woodtyped/planks.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxStackSize",
+        "value": 16,
+        "file": "blocktypes/wood/barrel.json"
+    }
+
+]

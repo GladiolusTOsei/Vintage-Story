@@ -1,0 +1,13 @@
+{
+  "type": "content",
+  "modid": "increaselogsnseeds",
+  "name": "Increase Logs N Seeds",
+  "authors": [
+    "Gladiolus Osei"
+  ],
+  "description": "Increases the stack size of all the logs in the game and adds a way to get more vegetable seeds.",
+  "version": "1.0.0",
+  "dependencies": {
+    "game": "1.20.11"
+  }
+}
