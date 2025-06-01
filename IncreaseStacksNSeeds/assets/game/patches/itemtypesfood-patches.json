@@ -1,0 +1,95 @@
+[
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 128,
+        "file": "itemtypes/food/bushmeat.json"
+    },{
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 64,
+        "file": "itemtypes/food/egg.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 128,
+        "file": "itemtypes/food/flour.json"
+    },{
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 128,
+        "file": "itemtypes/food/fruit.json"
+    },{
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 128,
+        "file": "itemtypes/food/grain.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 64,
+        "file": "itemtypes/food/legume.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 128,
+        "file": "itemtypes/food/pickledvegetable.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 64,
+        "file": "blocktypes/food/pineapple.json"
+    },
+  {
+    "op": "replace",
+    "path": "/maxstacksize",
+    "value": 128,
+    "file": "itemtypes/food/vegetable.json"
+  },
+  {
+    "op": "replace",
+    "path": "/maxstacksize",
+    "value": 128,
+    "file": "itemtypes/food/fish.json"
+  },
+  {
+    "op": "replace",
+    "path": "/maxstacksize",
+    "value": 128,
+    "file": "itemtypes/food/redmeat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/maxstacksize",
+    "value": 128,
+    "file": "itemtypes/food/poultry.json"
+  },
+  {
+    "op": "replace",
+    "path": "/maxstacksize",
+    "value": 128,
+    "file": "itemtypes/food/dough.json"
+  },
+  {
+    "op": "replace",
+    "path": "/maxstacksize",
+    "value": 128,
+    "file": "itemtypes/food/rawcheese.json"
+  },
+  {
+    "op": "replace",
+    "path": "/maxstacksize",
+    "value": 128,
+    "file": "itemtypes/food/pickledlegume.json"
+  },
+  {
+    "op": "replace",
+    "path": "/maxstacksize",
+    "value": 128,
+    "file": "itemtypes/food/rawcassava.json"
+  }
+]

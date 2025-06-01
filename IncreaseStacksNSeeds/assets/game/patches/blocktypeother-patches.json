@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/maxstacksize",
+    "value": 128,
+    "file": "blocktypes/plant/vines.json"
+  },
+  {
+    "op": "replace",
+    "path": "/maxStackSize",
+    "value": 128,
+    "file": "blocktypes/metal/metalpartsandscraps.json"
+  },
+  {
+    "op": "replace",
+    "path": "/maxStackSize",
+    "value": 64,
+    "file": "blocktypes/metal/torchholder.json"
+  },
+  {
+    "op": "replace",
+    "path": "/maxstacksize",
+    "value": 64,
+    "file": "blocktypes/wax/skep.json"
+  }
+
+]

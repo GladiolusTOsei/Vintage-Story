@@ -1,0 +1,338 @@
+[
+    
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 64,
+        "file": "itemtypes/resource/bamboostakes.json"
+    },{
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 64,
+        "file": "itemtypes/resource/beeswax.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 128,
+        "file": "itemtypes/resource/bone.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 64,
+        "file": "itemtypes/resource/candle.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 128,
+        "file": "itemtypes/resource/catttailroot.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 128,
+        "file": "itemtypes/resource/catttailtops.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 256,
+        "file": "itemtypes/resource/charcoal.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 128,
+        "file": "itemtypes/resource/clay.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 128,
+        "file": "itemtypes/resource/cloth.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 256,
+        "file": "itemtypes/resource/coke.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 128,
+        "file": "itemtypes/resource/compost.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 128,
+        "file": "itemtypes/resource/crystalizedore.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 128,
+        "file": "itemtypes/resource/drygrass.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 128,
+        "file": "itemtypes/resource/fat.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 64,
+        "file": "itemtypes/resource/firewood.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 64,
+        "file": "itemtypes/resource/firewood-aged.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 128,
+        "file": "itemtypes/resource/flaxfibers.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 64,
+        "file": "itemtypes/resource/flaxtwine.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 128,
+        "file": "itemtypes/resource/flint.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksizeByType/*-huge",
+        "value": 16,
+        "file": "itemtypes/resource/hide.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksizeByType/*-large",
+        "value": 32,
+        "file": "itemtypes/resource/hide.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksizeByType/*-medium",
+        "value": 64,
+        "file": "itemtypes/resource/hide.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksizeByType/*-small",
+        "value": 128,
+        "file": "itemtypes/resource/hide.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 32,
+        "file": "itemtypes/resource/honeycomb.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 64,
+        "file": "itemtypes/resource/ingot.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 128,
+        "file": "itemtypes/resource/leather.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 1092,
+        "file": "itemtypes/resource/metalbit.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 16,
+        "file": "itemtypes/resource/metalchain.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 16,
+        "file": "itemtypes/resource/metallamellae.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 64,
+        "file": "itemtypes/resource/metalnailsandstrips.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 16,
+        "file": "itemtypes/resource/metalplate.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 16,
+        "file": "itemtypes/resource/metalscale.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 256,
+        "file": "itemtypes/resource/mortar.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 1092,
+        "file": "itemtypes/resource/nugget.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 256,
+        "file": "itemtypes/resource/ore-graded.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 256,
+        "file": "itemtypes/resource/ore-ungraded.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 128,
+        "file": "itemtypes/resource/papyrusroot.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 128,
+        "file": "itemtypes/resource/papyrustops.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 128,
+        "file": "itemtypes/resource/plank.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 128,
+        "file": "itemtypes/resource/quartz/amethyst.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 128,
+        "file": "itemtypes/resource/quartz/clearquartz.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 128,
+        "file": "itemtypes/resource/quartz/rosequartz.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 128,
+        "file": "itemtypes/resource/quartz/smokyquartz.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 128,
+        "file": "itemtypes/resource/quicklime.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 64,
+        "file": "itemtypes/resource/resin.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 32,
+        "file": "itemtypes/resource/rope.json"
+    },
+    {
+        "op": "replace",
+        "path": "/attributes/waterTightContainerProps/maxStackSize",
+        "value": 128,
+        "file": "itemtypes/resource/rot.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 8,
+        "file": "itemtypes/resource/sail.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 128,
+        "file": "itemtypes/resource/seeds.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 128,
+        "file": "itemtypes/resource/stick.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 256,
+        "file": "itemtypes/resource/stone.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 128,
+        "file": "itemtypes/resource/stonebrick.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 128,
+        "file": "itemtypes/resource/thatch.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 256,
+        "file": "itemtypes/resource/treeseed.json"
+    },
+  {
+    "op": "replace",
+    "path": "/maxStackSize",
+    "value": 128,
+    "file": "blocktypes/soil/peatbrick.json"
+  },
+  {
+    "op": "replace",
+    "path": "/maxstacksize",
+    "value": 128,
+    "file": "blocktypes/reasource/stick"
+  }
+]

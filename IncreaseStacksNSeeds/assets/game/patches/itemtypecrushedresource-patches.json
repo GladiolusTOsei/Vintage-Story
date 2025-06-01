@@ -1,0 +1,57 @@
+[
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 128,
+        "file": "itemtypes/resource/crushed/blastingpowder.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 128,
+        "file": "itemtypes/resource/crushed/bonemeal.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 256,
+        "file": "itemtypes/resource/crushed/crushed.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 256,
+        "file": "itemtypes/resource/crushed/lime.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 256,
+        "file": "itemtypes/resource/crushed/potash.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 256,
+        "file": "itemtypes/resource/crushed/powder.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 256,
+        "file": "itemtypes/resource/crushed/powder-graded.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 512,
+        "file": "itemtypes/resource/crushed/salt.json"
+    },
+    {
+        "op": "replace",
+        "path": "/maxstacksize",
+        "value": 128,
+        "file": "itemtypes/resource/crushed/saltpeter.json"
+    }
+    
+]
