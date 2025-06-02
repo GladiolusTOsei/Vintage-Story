@@ -1,0 +1,14 @@
+[
+  {
+    ingredientPattern: "H,T,B",
+    ingredients: {
+      "H": { type: "item", code: "game:hammer-*", name: "metal", isTool: true},
+      "T": {type: "block", code: "game:bloomerychimney" },
+      "B": {type: "block", code: "game:bloomerybase-*" }
+    },
+    shapeless: true,
+    width: 1,
+    height: 3,
+    output: {type: "item",  code: "game:burnedbrick-fire",  quantity: 8}
+  }
+]

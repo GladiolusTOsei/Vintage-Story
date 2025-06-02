@@ -1,0 +1,14 @@
+[
+	{
+		"ingredientPattern": "SCFB",
+		"width": 2,
+		"height": 2,
+		"ingredients": {
+			"S": { "type": "item", "code": "game:salt", "quantity": 4 },
+			"C": { "type": "item", "code": "game:powder-charcoal", quantity: 2 },
+			"F": { "type": "item", "code": "game:powder-sulfur", "quantity": 2 },
+			"B": { "type": "item", "code": "game:powder-borax", "quantity": 2 }
+		},	
+		"output": { "type": "item", "code": "game:saltpeter", quantity: 2 }
+	}
+]

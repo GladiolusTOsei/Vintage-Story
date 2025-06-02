@@ -1,0 +1,13 @@
+[
+	{
+		"ingredientPattern": "QCB",
+		"width": 3,
+		"height": 1,
+		"ingredients": {
+			"Q": { "type": "item", "code": "game:quicklime", "quantity": 4 },
+			"C": { "type": "item", "code": "game:powder-charcoal", quantity: 2 },
+			"B": { "type": "item", "code": "game:powder-borax", "quantity": 2 }
+		},	
+		"output": { "type": "item", "code": "game:ore-sulfur", quantity: 2 }
+	}
+]

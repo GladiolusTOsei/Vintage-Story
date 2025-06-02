@@ -1,0 +1,16 @@
+[
+  {
+    "op": "replace",
+    "path": "/drops",
+    "value": [
+      {
+        "type": "block",
+        "code": "bloomerychimney",
+        "quantity": {
+          "avg": 1
+        }
+      },
+    ],
+    "file": "game:blocktypes/clay/bloomerychimney.json"
+  }
+]
