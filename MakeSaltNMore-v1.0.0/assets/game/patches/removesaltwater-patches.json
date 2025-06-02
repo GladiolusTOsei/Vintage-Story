@@ -1,0 +1,29 @@
+[
+  {
+    "op": "remove",
+    "path": "/attributes/waterTightContainerProps/whenSpilled/stackByFillLevel",
+    "file": "game:itemtypes/liquid/saltwaterportion.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/attributes/waterTightContainerProps/whenSpilled/action",
+    "value": "DropContents",
+    "file": "game:itemtypes/liquid/saltwaterportion.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/attributes/waterTightContainerProps/whenSpilled/stack/code",
+    "value": "saltwaterportion",
+    "file": "game:itemtypes/liquid/saltwaterportion.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/attributes/waterTightContainerProps/whenSpilled/stack/type",
+    "value": "item",
+    "file": "game:itemtypes/liquid/saltwaterportion.json",
+    "side": "Server"
+  }
+]
